@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firstreactgit/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/firstreactgit/static/js/main.2b7489ad.chunk.js",
+    "main.js.map": "/firstreactgit/static/js/main.2b7489ad.chunk.js.map",
+    "runtime-main.js": "/firstreactgit/static/js/runtime-main.4a5d11d1.js",
+    "runtime-main.js.map": "/firstreactgit/static/js/runtime-main.4a5d11d1.js.map",
+    "static/js/2.67691ccd.chunk.js": "/firstreactgit/static/js/2.67691ccd.chunk.js",
+    "static/js/2.67691ccd.chunk.js.map": "/firstreactgit/static/js/2.67691ccd.chunk.js.map",
+    "index.html": "/firstreactgit/index.html",
+    "precache-manifest.621a6c93fe43ffdbd34e1cf030a63670.js": "/firstreactgit/precache-manifest.621a6c93fe43ffdbd34e1cf030a63670.js",
+    "service-worker.js": "/firstreactgit/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/firstreactgit/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.67691ccd.chunk.js.LICENSE.txt": "/firstreactgit/static/js/2.67691ccd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a5d11d1.js",
+    "static/js/2.67691ccd.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2b7489ad.chunk.js"
+  ]
+}
